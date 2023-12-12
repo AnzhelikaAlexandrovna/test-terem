@@ -1,5 +1,3 @@
-
-
 const box_1 = document.querySelector('.box-1');
 const btn_warning = document.querySelector('.btn-warning');
  
